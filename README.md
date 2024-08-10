@@ -1,7 +1,7 @@
 # SimonSays-Game
 It is a popular Simon Says Game created with the help of HTML, CSS, JavaScript..
 
-#How-It-Works
+# How-It-Works
 1. Game Rules:
 => The game starts by flashing a color (let’s call it “Color A”) to the player.
 => Your task is to remember this color.
@@ -15,5 +15,5 @@ It is a popular Simon Says Game created with the help of HTML, CSS, JavaScript..
 => The game keeps track of your highest score (the highest level you reached).
 => Your current level (or score) is displayed during gameplay.
 
-#Where-To-Experience-the-Game
+# Where-To-Experience-the-Game
 You can play this game on these sites: http://playsimonsays.free.nf/ and  
