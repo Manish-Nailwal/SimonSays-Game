@@ -16,4 +16,4 @@ It is a popular Simon Says Game created with the help of HTML, CSS, JavaScript..
 => Your current level (or score) is displayed during gameplay.
 
 # Where-To-Experience-the-Game
-You can play this game on these sites: http://playsimonsays.free.nf/ and  
+You can play this game on these sites: http://playsimonsays.free.nf/
