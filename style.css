@@ -1,0 +1,88 @@
+body{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#1c1c1c , #000);
+    color: #fff;
+    overflow: hidden;
+}
+h1{
+    font-size: 4.5rem;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #ffffffd7;
+    display: inline-flex;
+    align-items: center;
+    transition: linear.2s;
+}
+.btn1{
+    font-size: 2rem;
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    width: max-content;
+    padding: 0.3rem 3rem;
+    border-radius: 50px;
+    margin-bottom: 1rem;  
+    margin-top: 2.5rem;  
+    transition: linear 0.2s;
+    color: #ffffffd7;  
+    border: solid ;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 0;
+    margin: 0;   
+}
+.info , .tut{
+    font-size: 1.2rem;
+    width: 10rem;
+    height: 3rem;
+    border: solid #ffffff73;
+    border-radius: 1.2rem;
+    margin: 0 12px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+.btn1:hover{
+    scale:1.02;
+    color: white;
+}
+.tut:hover,.info:hover{
+    border: solid #ffffff;
+    scale: 1.02;
+}
+.follow{
+    width: 15rem;
+    height: 60px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+}
+.fa-linkedin{
+    color: cornflowerblue;
+}
+.social:hover{
+    color: #fff;
+    scale: 1.02;
+}
+img{
+    height: 4.5rem;
+}
